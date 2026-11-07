@@ -14,6 +14,12 @@ export default function Home() {
       <Link href="/about" className={styles.button}>
         About Us
       </Link>
+      <Link href="/axios-learning" className={styles.button}>
+        Learn Axios
+      </Link>
+      <Link href="/login" className={`${styles.button} ${styles.loginButton}`}>
+        Log in
+      </Link>
     </main>
   );
 }

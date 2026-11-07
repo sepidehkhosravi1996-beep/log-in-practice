@@ -10,12 +10,12 @@
 
 .title {
   font-size: 32px;
-  text-align: center;
+  text-align: left;
   color: #1e293b;
 }
 
 .description {
-  text-align: center;
+  text-align: left;
   color: #64748b;
   margin: 15px 0 30px;
 }
@@ -48,3 +48,4 @@
 .form button:hover {
   background-color: #1d4ed8;
 }
+
